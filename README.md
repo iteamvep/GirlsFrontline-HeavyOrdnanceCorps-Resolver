@@ -7,6 +7,8 @@
 
 该项目可编译为windows/linux/android等平台的可执行文件活链接库，支持各种形式的使用（笑
 
+因云母组已精简相关重装部队芯片游戏流程，本求解器仅提供学习用途
+
 ### 特别感谢
 [CodeX](https://github.com/xxzl0130/CodeX "少女前线芯片计算器CodeX") </br>
 [sse2neon](https://github.com/DLTcollab/sse2neon "A C/C++ header file that converts Intel SSE intrinsics to Arm/Aarch64 NEON intrinsics") </br>
